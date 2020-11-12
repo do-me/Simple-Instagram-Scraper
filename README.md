@@ -24,6 +24,7 @@ Instagram will sometimes display less posts after a while. If this occurs the sc
 A quick trial went well for around 2k posts. Depending on your break settings a reasonable time in this case would be ~4 hours.
 
 ## To Do
+- Disable caching! Otherwise fails after ~8k posts
 - Improve error handling, i.e. after n non displayable posts do very long break
 - More benchmarking to figure out ideal break duration and intervals
 - Add a second login account when blocked completely 
