@@ -21,7 +21,8 @@ You can pause (use jupyter's "interrupt" function) and resume (just reexecute th
 Instagram will sometimes display less posts after a while. If this occurs the script makes a break, goes back to the previous post and continues normally. If a single post cannot be visualized the post id will still be saved so can easily filter the dataframe after and add missing information.
 
 ## Benchmarks 
-A quick trial went well for around 2k posts. Depending on your break settings a reasonable time in this case would be ~4 hours.
+- 2k posts: 4h went well
+- 8k posts: 12h went well but around 2-5% no information as sometimes too fast. Should go better with slightly higher longer breaks.
 
 ## To Do
 - Disable caching! Otherwise fails after ~8k posts
