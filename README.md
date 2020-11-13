@@ -2,7 +2,7 @@
 ## A highly customizable Instagram Scraper based on Selenium.
 v1.0.1
 
-Due to latest Instagram blocking policy changes [Instagram Scraper](https://github.com/arc298/instagram-scraper) is temporarily not performing well.
+Due to latest Instagram blocking policy changes [Instagram Scraper](https://github.com/arc298/instagram-scraper) is temporarily not performing well (as of November 2020).
 I came up with my own scraping script to overcome repeated 429 http blocking errors by "behaving like a human". 
 Use this juypter notebook to gain full control over your scraping!
 
