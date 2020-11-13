@@ -1,6 +1,8 @@
 # Simple-Instagram-Scraper
 ## A highly customizable Instagram Scraper based on Selenium.
-v1.0.1
+v1.0.3
+
+*Requirements: You need a valid Instagram login but no API-Key*
 
 Due to latest Instagram blocking policy changes [Instagram Scraper](https://github.com/arc298/instagram-scraper) is temporarily not performing well (as of November 2020).
 I came up with my own scraping script to overcome repeated 429 http blocking errors by "behaving like a human". 
@@ -31,3 +33,7 @@ Instagram will sometimes display less posts after a while. If this occurs the sc
 - More benchmarking to figure out ideal break duration and intervals
 - Add a second login account when blocked completely 
 - Add media download possibility
+
+## Tips
+- Don't log in too often otherwise you need to verify your account with a mobile number. 
+- Get a disposable email from https://www.emailondeck.com
