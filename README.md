@@ -22,7 +22,8 @@ Instagram will sometimes display less posts after a while. If this occurs the sc
 
 ## Benchmarks 
 - 2k posts: 4h went well
-- 8k posts: 12h went well but around 2-5% no information as sometimes too fast. Should go better with slightly higher longer breaks.
+- 8k posts: 12h went well but around 2-5% no information as sometimes too fast. Should go better with slightly longer breaks.
+- usually between 5k and 8k posts scrapable before being blocked
 
 ## To Do
 - Add resume option "only posts since last scrape"
