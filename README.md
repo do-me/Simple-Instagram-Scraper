@@ -25,7 +25,7 @@ Instagram will sometimes display less posts after a while. If this occurs the sc
 - 8k posts: 12h went well but around 2-5% no information as sometimes too fast. Should go better with slightly higher longer breaks.
 
 ## To Do
-- Disable caching! Otherwise fails after ~8k posts
+- Add resume option "only posts since last scrape"
 - Improve error handling, i.e. after n non displayable posts do very long break
 - More benchmarking to figure out ideal break duration and intervals
 - Add a second login account when blocked completely 
