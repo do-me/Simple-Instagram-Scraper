@@ -33,6 +33,7 @@ Instagram will sometimes display less posts after a while. If this occurs the sc
 - More benchmarking to figure out ideal break duration and intervals
 - Add a second login account when blocked completely 
 - Add media download possibility
+- Add comments (really easy)
 
 ## Tips
 - Don't log in too often otherwise you need to verify your account with a mobile number. 
