@@ -10,6 +10,8 @@ Due to latest Instagram blocking policy changes [Instagram Scraper](https://gith
 I came up with my own scraping script to overcome repeated 429 http blocking errors by "behaving like a human". 
 Use this juypter notebook to gain full control over your scraping!
 
+See my [blog post about Simple Instagram Scraper](https://geo.rocks/post/writing-your-own-instagram-scraper/) for some scraping theory.
+
 ## Idea
 The main loop literally looks at every individual post, parses and saves the data and goes to the next one by clicking the small arrow.
 It acts kinda human by pausing pretty randomely (long breaks and short breaks can be defined) and typing a comment now and then (but not confirming). 
