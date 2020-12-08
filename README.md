@@ -4,6 +4,8 @@ v1.0.3
 
 *Requirements: You need a valid Instagram login but no API-Key*
 
+**For a faster Scraper see my latest [Fast Instagram Scraper](https://github.com/do-me/fast-instagram-scraper) based on Torpy! Find a comparison between the two scrapers [here](https://github.com/do-me/fast-instagram-scraper#why-not-simple-instagram-scraper).**
+
 Due to latest Instagram blocking policy changes [Instagram Scraper](https://github.com/arc298/instagram-scraper) is temporarily not performing well (as of November 2020).
 I came up with my own scraping script to overcome repeated 429 http blocking errors by "behaving like a human". 
 Use this juypter notebook to gain full control over your scraping!
